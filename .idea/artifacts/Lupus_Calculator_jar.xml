@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lupus Calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lupus_Calculator_jar</output-path>
+    <root id="archive" name="Lupus Calculator.jar">
+      <element id="module-output" name="Lupus Calculator" />
+    </root>
+  </artifact>
+</component>
